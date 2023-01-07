@@ -1,0 +1,7 @@
+Most is working pretty well funds have not been included yet 
+Need to comment still a little. 
+Also need to change exit database to back to menu screen
+Add funds 
+Add Remove and exit button
+buttosn on blackjack need to be changed to match dimnensions
+Funds not updating
